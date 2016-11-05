@@ -13,7 +13,7 @@ from framework.forecasting.forecast_handler import forecast_handler
 
 # create data provider
 data_provider_parameters = {
-	'filepath': 'data/data1.csv',
+	'filepath': 'data/demo1.csv',
 	'testing_set_size': 96,
 	'missing_values_processing_policy' : None
 }
